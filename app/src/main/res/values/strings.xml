@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">loisir</string>
+    <string name="o1">Math Problems</string>
+    <string name="o2">QandA</string>
+    <string name="o3">Meteo</string>
+    <string name="br">Accueil</string>
+    <string name="enonce">figure out the appropriate operation for this equation</string>
+    <string name="sub">your response is:</string>
+    <string name="a">a</string>
+    <string name="o">.</string>
+    <string name="b">b</string>
+    <string name="eg">=</string>
+    <string name="c">c</string>
+    <string name="resultat">is it + or - or * or /</string>
+    <string name="correct_toast"> AWESOME CORRECT ANSWER!!! </string>
+    <string name="incorrect_toast"> FALSE ANSWER :( </string>
+    <string name="update">Change Operation</string>
+    <string name="add">Addition (+) </string>
+    <string name="sous">Substraction (-)</string>
+    <string name="mul">Multiplication (X)</string>
+    <string name="div">Division (/)</string>
+    <string name="essai">FALSE ANSWER :(  Try again!!</string>
+    <string name="current">Your Current Position</string>
+    <string name="defaultt">NA</string>
+</resources>
